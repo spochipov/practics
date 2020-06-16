@@ -1,0 +1,14 @@
+version: "3.0"
+
+services:
+
+  nats:
+    image: nats
+    ports:
+      - "4221:4222"
+  mongo:
+    image: "mongo"
+    ports:
+      - "27018:27017"
+    volumes:
+      - ./mongo_data:/data/db

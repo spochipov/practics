@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Google mail",
+    "email": "stas.pochipov@gmail.com",
+    "themes": [
+      "THEM1",
+      "THEM2"
+    ]
+  },
+  {
+    "name": "Mail.ru mail",
+    "email": "stas-pochipov@mail.ru",
+    "themes": [
+      "THEM1",
+      "THEM3"
+    ]
+  },
+  {
+    "name": "Yandex mail",
+    "email": "www.stas-pochipov@yandex.ru",
+    "themes": [
+      "THEM3",
+      "THEM2"
+    ]
+  }
+]
