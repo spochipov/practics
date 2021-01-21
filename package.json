@@ -12,7 +12,7 @@
     "moleculer-mail": "^1.2.3",
     "moleculer-repl": "^0.6.4",
     "nats": "^1.4.9",
-    "socket.io": "^1.4.4"
+    "socket.io": "^2.4.0"
   },
   "scripts": {
     "start": "node ./pubsub/index.js",
